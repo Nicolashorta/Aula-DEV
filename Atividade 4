@@ -1,0 +1,19 @@
+A empresa Savinis, focada no desenvolvimento de software de alta performance, contratou você para realizar o desenvolvimento de um sistema de cadastro para eventos que será disponibilizado para o público, o que, até então, era realizado manualmente.
+ 
+Esse sistema terá como função principal a divulgação dos eventos para a comunidade de desenvolvimento (grupo de pessoas que tem o intuito de compartilhar ideias, projetos e conhecimentos) para que sejam consultados de forma eficiente.
+
+Você será responsável por escolher qual técnica atenderá aos seguintes requisitos:
+
+*se a data do evento for posterior à data atual, permitir o evento; se não, alertar que o cadastro não será permitido por data inválida.
+*se o participante for maior de 18 anos, permitir o cadastro; se não, alertar que o cadastro não é permitido para a idade;
+*listar participantes e palestrantes por evento; 
+*enquanto a quantidade de participantes for inferior a cem, permitir cadastro; do contrário, alertar que o cadastro não será permitido por ter excedido o limite;
+*criar fluxograma com todos os requisitos que devem ser atendidos pelo sistema.
+
+Para criação desse sistema de cadastro, você, enquanto programador(a) responsável, deverá solucionar os seguintes desafios:
+
+*descrever a sequência de passos lógicos necessários para a criação do sistema solicitado pela empresa;
+*aplicar técnicas de programação e ferramentas para desenvolvimento do código;
+*aplicar linguagem de programação para implementação do sistema.
+
+Para resolver esses desafios, estude o material web, participe do fórum de discussão, dos webinars e realize as atividades propostas.
